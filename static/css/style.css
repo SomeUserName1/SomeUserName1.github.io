@@ -262,6 +262,24 @@ img {
   color: var(--accent);
 }
 
+.skills-group {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.skills-group:last-child {
+  margin-bottom: 0;
+}
+
+.skills-group-label {
+  font-size: 0.6875rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  min-width: 72px;
+}
+
 .skills-list {
   display: flex;
   flex-wrap: wrap;

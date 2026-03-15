@@ -96,21 +96,12 @@ certifications:
     url: "https://www.credly.com/users/fabian-klopfer"
 
 skills:
-  - "C"
-  - "Python"
-  - "Rust"
-  - "Java"
-  - "C++"
-  - "SQL"
-  - "PyTorch"
-  - "Keras"
-  - "TensorFlow"
-  - "ROS"
-  - "Shell"
-  - "Linux"
-  - "CI/CD"
-  - "MATLAB"
-  - "LaTeX"
+  - group: "Languages"
+    items: ["C", "Python", "Rust", "Java", "C++", "SQL", "Shell", "MATLAB", "LaTeX"]
+  - group: "Frameworks"
+    items: ["PyTorch", "Keras", "TensorFlow", "ROS"]
+  - group: "Tools"
+    items: ["Linux", "CI/CD"]
 ---
 
 Software engineer at IBM working on the Db2/BigSQL distributed datalake engine. Dual background in computer science and neuroscience with two master's degrees. Experience spans neural data analysis (electrophysiology and MRI), graph database optimization, deep brain stimulation, and robotics research in Hong Kong. Open source contributor to scikit-learn, SHAP, MONAI, QubesOS, and others. Interested in building systems that process and make sense of complex data.

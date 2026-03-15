@@ -71,11 +71,16 @@
 
     <div class="cv-subsection">
       <h3 class="cv-label">Skills</h3>
-      <div class="skills-list">
-        {{ range .Params.skills }}
-        <span class="skill-tag">{{ . }}</span>
-        {{ end }}
+      {{ range .Params.skills }}
+      <div class="skills-group">
+        <span class="skills-group-label">{{ .group }}</span>
+        <div class="skills-list">
+          {{ range .items }}
+          <span class="skill-tag">{{ . }}</span>
+          {{ end }}
+        </div>
       </div>
+      {{ end }}
     </div>
 
     <div class="cv-subsection">
