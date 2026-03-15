@@ -1,8 +1,10 @@
 ---
 title: "Discovering Hidden Taxonomies: Automatic Concept Hierarchy Formation in Property Graphs"
-date: 2026-03-15T17:02:00+01:00
+date: 2020-09-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "How an unsupervised clustering pipeline can extract meaningful type hierarchies from graph databases — and why that matters for query optimization."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ## The Problem: Implicit Structure Hiding in Plain Sight
 

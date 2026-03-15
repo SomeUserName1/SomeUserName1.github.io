@@ -1,8 +1,10 @@
 ---
 title: "Decoding Language Comprehension from Brainwaves: A Deep Learning Approach to EEG Coherence Classification"
-date: 2026-03-15T17:06:00+01:00
+date: 2018-09-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "Can a neural network tell how well you understood a sentence — just by reading your brainwaves? Classifying language comprehension from EEG coherence spectra using deep learning."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ## The Problem
 

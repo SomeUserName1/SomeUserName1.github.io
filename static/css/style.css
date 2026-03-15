@@ -322,6 +322,15 @@ img {
   font-size: 1.125rem;
 }
 
+.post-tag {
+  background: var(--tag-bg);
+  color: var(--accent);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.6875rem;
+  white-space: nowrap;
+}
+
 .post-summary {
   color: var(--text-secondary);
   font-size: 0.875rem;

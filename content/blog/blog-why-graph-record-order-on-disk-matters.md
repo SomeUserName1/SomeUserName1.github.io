@@ -1,8 +1,10 @@
 ---
 title: "Why the Order of Your Graph Data on Disk Matters More Than You Think"
-date: 2026-03-15T17:01:00+01:00
+date: 2021-06-01T00:01:00+01:00
+tags: ["AI Project Summary"]
 summary: "How rearranging records in a graph database can dramatically reduce disk I/O for traversal queries."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 When you ask a graph database to find the shortest path between two cities, or to traverse a social network breadth-first, the database doesn't just think about algorithms. Behind the scenes, it's frantically loading blocks of data from disk into memory. And here's the thing most people don't consider: **the physical order in which graph records are stored on disk has a massive impact on how many of those expensive disk reads are needed.**
 

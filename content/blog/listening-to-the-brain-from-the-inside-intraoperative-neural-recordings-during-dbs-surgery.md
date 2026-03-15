@@ -1,8 +1,10 @@
 ---
 title: "Listening to the Brain from the Inside: What Happens When You Record Neural Signals During Brain Surgery"
-date: 2026-03-15T17:08:00+01:00
+date: 2023-06-01T00:01:00+01:00
+tags: ["AI Project Summary"]
 summary: "What do brain signals actually sound like when you lower an electrode into a living human brain — and what can they teach us about treating Parkinson's disease?"
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ## The Operating Room
 

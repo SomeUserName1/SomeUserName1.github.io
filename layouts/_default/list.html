@@ -6,8 +6,9 @@
       {{ range .Pages }}
       <li class="post-item">
         <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+        {{ range .Params.tags }}<span class="post-tag">{{ . }}</span>{{ end }}
         <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        {{ with .Summary }}<p class="post-summary">{{ . }}</p>{{ end }}
+        {{ with .Params.summary }}<p class="post-summary">{{ . }}</p>{{ end }}
       </li>
       {{ end }}
       {{ if not .Pages }}

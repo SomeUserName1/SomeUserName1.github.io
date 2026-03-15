@@ -1,8 +1,10 @@
 ---
 title: "Building a Toolbox to Decode the Brain's Electrical Whispers"
-date: 2026-03-15T17:09:00+01:00
+date: 2023-03-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "How a custom Python application is helping neuroscientists study epilepsy and migraine through multi-electrode array recordings."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ### The Problem: Ion Channels Gone Wrong
 

@@ -1,8 +1,10 @@
 ---
 title: "Affective Computing for Subjective Video Quality Assessment: Building EmoPy"
-date: 2026-03-15T17:05:00+01:00
+date: 2018-03-29T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "A collaboration between the University of Konstanz and the Technical University of Berlin on using facial expression recognition for video quality assessment."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ## Can a Computer Tell How a Video Makes You Feel?
 

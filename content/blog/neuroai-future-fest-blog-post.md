@@ -1,8 +1,10 @@
 ---
 title: "NeuroAI: What the Brain Can Teach Us About the Future of AI"
-date: 2026-03-15T17:10:00+01:00
+date: 2025-07-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "Based on a lightning talk at Future Fest 2025 — modern AI has deep roots in neuroscience, and its future might depend on returning to them."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 Modern AI has deep roots in neuroscience — and its future might depend on returning to them.
 

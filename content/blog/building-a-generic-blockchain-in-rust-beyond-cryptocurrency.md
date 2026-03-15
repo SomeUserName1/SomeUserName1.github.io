@@ -1,8 +1,10 @@
 ---
 title: "Building a Generic Blockchain in Rust: Beyond Cryptocurrency"
-date: 2026-03-15T17:07:00+01:00
+date: 2017-12-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "Using Rust's type system to build a blockchain where the transaction payload is a generic parameter — supporting cryptocurrency, voting, and more."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 Most blockchain tutorials start and end with cryptocurrency. Send coins, receive coins, mine blocks, repeat. But blockchains are a general-purpose data structure — a tamper-evident, distributed ledger that can track *anything*. What if the framework itself reflected that generality?
 

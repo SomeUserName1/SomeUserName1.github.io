@@ -1,8 +1,10 @@
 ---
 title: "Building a Graph Database from Scratch in C: Architecture of a Research Storage Engine"
-date: 2026-03-15T17:00:00+01:00
+date: 2021-06-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "A deep dive into the layered architecture of a minimal graph database built for studying how record layout affects query performance."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 Most developers interact with databases through query languages and APIs. Few ever think about what happens below the surface -- how bytes are arranged in files, how pages are loaded into memory, or why the order of records on disk can make one query ten times faster than another.
 

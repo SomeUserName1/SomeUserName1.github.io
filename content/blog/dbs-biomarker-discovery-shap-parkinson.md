@@ -1,8 +1,10 @@
 ---
 title: "Data-Driven Biomarkers for Motor Subthalamic Nucleus in Parkinson's Disease During DBS Electrode Implantation"
-date: 2026-03-15T17:04:00+01:00
+date: 2023-06-01T00:00:00+01:00
+tags: ["AI Project Summary"]
 summary: "Using machine learning and SHAP to identify electrophysiological biomarkers for precise DBS electrode placement in Parkinson's disease surgery."
 ---
+> *This post was AI-generated from the project's source code, thesis, and documentation. It is an automated summary, not original writing.*
 
 ## The Challenge: Finding the Right Spot in the Brain
 

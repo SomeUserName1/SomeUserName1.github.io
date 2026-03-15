@@ -1,28 +1,33 @@
 ---
 title: "Fabian H. Klopfer"
-description: "Software Engineer — Neuroscience & Database Systems"
+description: "Software Engineer — Neuroscience & Computing Systems"
 
 projects:
   - name: "concept_hierarchy_formation"
     repo: "concept_hierarchy_formation_in_property_graphs"
     lang: "Python"
     desc: "Type hierarchy inference in property graph databases"
+    blog: "data-driven-type-inference"
   - name: "diffusion-tensor-conditional-generation"
     repo: "diffusion-tensor-conditional-generation"
     lang: "Python"
     desc: "Image-to-image translation of pc-bSSFP data to DWI tensor"
+    blog: "predicting-brain-microstructure-from-bssfp-mri-with-deep-learning"
   - name: "mea-analysis-toolbox"
     repo: "mea-analysis-toolbox"
     lang: "Python"
     desc: "Local field potential analysis for multi-electrode arrays"
+    blog: "mea-lfp-analysis-toolbox-for-epilepsy-research"
   - name: "minimal_graph_db"
     repo: "minimal_graph_db"
     lang: "C"
     desc: "Graph database backend with on-disk storage order optimization"
+    blog: "blog-building-a-graph-database-from-scratch-in-c"
   - name: "generic-blockchain-rs"
     repo: "generic-blockchain-rs"
     lang: "Rust"
     desc: "Generic blockchain implementation"
+    blog: "building-a-generic-blockchain-in-rust-beyond-cryptocurrency"
   - name: "operating-systems-tutorials"
     repo: "operating-systems-tutorials"
     lang: "TeX"
@@ -74,13 +79,11 @@ skills:
   - "Rust"
   - "Java"
   - "C++"
+  - "SQL"
   - "PyTorch"
   - "Shell"
+  - "MATLAB"
   - "LaTeX"
 ---
 
 Software engineer at IBM working on Db2/BigSQL. Dual background in computer science and neuroscience with two master's degrees. Experience spans graph database optimization, deep brain stimulation data pipelines, and robotics research in Hong Kong. Interested in building systems that process and make sense of complex data.
-
-<!-- work-experience -->
-
-Started working at 15. Since then: barkeeper, retail, mover, telecom support, university data center infrastructure, tutor, research associate in graph databases, system administrator, brain stimulation surgery assistant, research at Max Planck, web developer, and now R&D software engineer at IBM. From semiconductor physics to frontend development. From solitary 16-hour coding sessions to organizing events for hundreds.

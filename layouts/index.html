@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ $about := split .RawContent "<!-- work-experience -->" }}
 
 <div class="container">
 
@@ -23,13 +22,7 @@
   <!-- About -->
   <section class="section">
     <h2 class="section-title">About</h2>
-    <div class="prose">{{ index $about 0 | markdownify }}</div>
-  </section>
-
-  <!-- Work Experience -->
-  <section class="section">
-    <h2 class="section-title">Work Experience</h2>
-    <div class="prose">{{ index $about 1 | markdownify }}</div>
+    <div class="prose">{{ .Content }}</div>
   </section>
 
   <!-- Projects -->
@@ -41,7 +34,7 @@
         <span class="project-name"><a href="https://github.com/SomeUserName1/{{ .repo }}">{{ .name }}</a></span>
         <span class="tag">{{ .lang }}</span>
       </div>
-      <p class="project-desc">{{ .desc }}</p>
+      <p class="project-desc">{{ .desc }}{{ with .blog }} · <a href="{{ "blog/" | relURL }}{{ . }}/">write-up</a>{{ end }}</p>
     </div>
     {{ end }}
   </section>
