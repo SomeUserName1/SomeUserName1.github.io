@@ -97,9 +97,9 @@ certifications:
 
 skills:
   - group: "Languages"
-    items: ["C", "Python", "Rust", "Java", "C++", "SQL", "Lua", "Scheme", "Cython", "Shell", "MATLAB", "LaTeX"]
+    items: ["C", "Python", "Rust", "Java", "C++", "SQL", "Haskell", "Lua", "Scheme", "Cython", "Shell", "MATLAB", "LaTeX"]
   - group: "Frameworks"
-    items: ["PyTorch", "Keras", "TensorFlow", "scikit-learn", "NumPy", "SciPy", "Eigen", "MONAI", "MNE", "Qiskit", "ROS", "Dash"]
+    items: ["PyTorch", "Keras", "TensorFlow", "scikit-learn", "NumPy", "SciPy", "Eigen", "MONAI", "MNE", "Qiskit", "ROS", "Dash", "Android"]
   - group: "Tools"
     items: ["Linux", "Git", "Docker", "PostgreSQL", "Neo4j", "CMake", "Make", "Maven", "Cargo", "Travis CI", "Ansible"]
 ---
