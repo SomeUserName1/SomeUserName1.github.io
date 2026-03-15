@@ -1,5 +1,10 @@
 <footer class="site-footer">
   <div class="container">
-    <p>Fabian H. Klopfer, {{ now.Year }}</p>
+    <div class="footer-links">
+      <a href="{{ .Site.Params.github }}">GitHub</a>
+      <a href="{{ .Site.Params.linkedin }}">LinkedIn</a>
+      <a href="mailto:{{ .Site.Params.email }}">Email</a>
+    </div>
+    <p class="footer-copy">Fabian H. Klopfer, {{ now.Year }}</p>
   </div>
 </footer>
