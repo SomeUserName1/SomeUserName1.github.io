@@ -70,10 +70,21 @@
     </div>
 
     <div class="cv-subsection">
-      <h3 class="cv-label">Publications</h3>
-      {{ range .Params.publications }}
-      <p class="cv-publication">{{ .citation | safeHTML }}</p>
-      {{ end }}
+      <h3 class="cv-label">Skills</h3>
+      <div class="skills-list">
+        {{ range .Params.skills }}
+        <span class="skill-tag">{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="cv-subsection">
+      <h3 class="cv-label">Open Source Contributions</h3>
+      <div class="skills-list">
+        {{ range .Params.opensource }}
+        <span class="skill-tag">{{ . }}</span>
+        {{ end }}
+      </div>
     </div>
 
     <div class="cv-subsection">
@@ -90,21 +101,10 @@
     </div>
 
     <div class="cv-subsection">
-      <h3 class="cv-label">Open Source Contributions</h3>
-      <div class="skills-list">
-        {{ range .Params.opensource }}
-        <span class="skill-tag">{{ . }}</span>
-        {{ end }}
-      </div>
-    </div>
-
-    <div class="cv-subsection">
-      <h3 class="cv-label">Skills</h3>
-      <div class="skills-list">
-        {{ range .Params.skills }}
-        <span class="skill-tag">{{ . }}</span>
-        {{ end }}
-      </div>
+      <h3 class="cv-label">Publications</h3>
+      {{ range .Params.publications }}
+      <p class="cv-publication">{{ .citation | safeHTML }}</p>
+      {{ end }}
     </div>
 
     <div class="cv-download">
