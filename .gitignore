@@ -4,6 +4,7 @@ resources/
 .DS_Store
 Thumbs.db
 .superpowers/
+docs/
 
 # Personal documents — do not publish
 additional.pdf
