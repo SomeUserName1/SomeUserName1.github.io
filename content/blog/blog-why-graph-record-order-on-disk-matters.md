@@ -115,4 +115,6 @@ The code is open source, designed as a research environment where new layout met
 
 ---
 
+**Full document:** [Thesis (PDF)](/files/locality-optimization-graph-db.pdf)
+
 *This post is based on the master's thesis "Locality Optimization for Traversal-based Queries on Graph Databases" by Fabian Klopfer, University of Konstanz, 2020, and the accompanying Graph Record Layout Research Environment.*

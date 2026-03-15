@@ -81,4 +81,6 @@ For researchers studying channelopathies and their devastating neurological cons
 
 ---
 
+**Full documents:** [Report (PDF)](/files/mea_Report_1.pdf) · [Presentation (PDF)](/files/mea_Presentation_1.pdf)
+
 *The MEA Analysis Toolbox was developed by Fabian Klopfer during a lab rotation at the Hertie Institute for Clinical Brain Research, University Hospital Tubingen, supervised by Dr. Thomas Wuttke and Dr. Ulrike Hedrich. It is built with Python, Dash, NumPy, SciPy, and a constellation of open-source neuroscience libraries.*

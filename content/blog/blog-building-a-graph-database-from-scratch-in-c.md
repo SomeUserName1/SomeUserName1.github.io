@@ -185,4 +185,6 @@ If you've ever wondered what happens below the query optimizer -- how bytes are 
 
 ---
 
+**Full document:** [Thesis (PDF)](/files/locality-optimization-graph-db.pdf)
+
 *This post describes the architecture of the Graph Record Layout Research Environment, part of the master's thesis "Locality Optimization for Traversal-based Queries on Graph Databases" by Fabian Klopfer, University of Konstanz, 2020.*

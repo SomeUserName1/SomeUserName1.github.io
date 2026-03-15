@@ -94,4 +94,6 @@ The patient's hand, which has been trembling for years, goes still.
 
 ---
 
+**Full documents:** [Report (PDF)](/files/dbs-report.pdf) · [Presentation (PDF)](/files/dbs-presentation.pdf)
+
 *The Intraoperative Neurophysiology Dataset is developed and maintained by the Neuromodulation and -technology lab at the University Clinics Tübingen. The codebase is built on Python and the MNE framework, with tools for preprocessing, spectral analysis, connectivity, complexity measures, and group-level spatial alignment.*

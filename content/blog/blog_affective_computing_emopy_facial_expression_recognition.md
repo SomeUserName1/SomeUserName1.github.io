@@ -195,4 +195,6 @@ The project outlined several directions for future work:
 
 ---
 
+**Full documents:** [Report (PDF)](/files/affective-computing-project.pdf) · [Presentation (PDF)](/files/affective-computing-presentation.pdf)
+
 *This project was presented on March 29, 2018, by Jan Laun-Cieslik and Fabian Klopfer (5th Semester, BSc Computer Science) as part of a collaboration between the University of Konstanz and TU Berlin. Contributors: Nida Cilasun, Mengzhu Deng, Franz Hahn, Yazan Kittaneh, Fabian Klopfer, Anlin Liang, Zhou Long, Jan Laun-Cieslik, Daniel Matzkuhn, and Andrei Sacuiu.*

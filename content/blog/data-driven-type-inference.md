@@ -132,4 +132,8 @@ This project sits at a compelling intersection: cognitive science (concept forma
 
 The Cobweb algorithm, despite being from 1987, turns out to be remarkably well-suited to this task. Its parameter-free nature, incremental operation, and probabilistic concept descriptions align almost perfectly with what a database system needs. The challenge, as the results show, is less about the algorithm itself and more about engineering the right feature representation for each dataset.
 
+---
+
+**Full documents:** [Thesis (PDF)](/files/Label_Hierarchy_Inference_in_Property_Graph_Databases-thesis.pdf) · [Presentation (PDF)](/files/Label_Hierarchy_Inference_in_Property_Graph_Databases-presentation.pdf)
+
 The code is open source and available in the project repository, including the survey pipeline, the Neo4j procedure, the synthetic data generator, and all evaluation tooling.

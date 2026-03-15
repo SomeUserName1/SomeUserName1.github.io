@@ -54,4 +54,6 @@ The MLP approach achieved small relative errors but with structural imprecisions
 
 ---
 
+**Full document:** [Thesis (PDF)](/files/Image_to_Image-translation-pcbssfp-dwi.pdf)
+
 *Based on the master's thesis "Volume-based Translation of Phase-Cycle Balanced Steady State Free Precession MRI Data to Diffusion Tensors" by Fabian Klopfer, University of Tubingen / Max Planck Institute for Biological Cybernetics, 2024.*

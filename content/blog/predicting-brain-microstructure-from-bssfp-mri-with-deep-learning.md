@@ -291,6 +291,10 @@ For neuroscientists, radiologists, and MRI physicists, this work opens a door: o
 
 ---
 
+**Full document:** [Thesis (PDF)](/files/Image_to_Image-translation-pcbssfp-dwi.pdf)
+
+---
+
 ### Technical Reference
 
 **Key Technologies**: PyTorch 2.2.1, PyTorch Lightning 2.2.1, MONAI 1.3.0, TorchIO 0.19.6, nibabel, PyBIDS, Weights & Biases

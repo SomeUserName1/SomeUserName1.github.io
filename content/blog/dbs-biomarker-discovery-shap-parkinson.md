@@ -82,4 +82,6 @@ By combining straightforward machine learning with rigorous explainability, this
 
 ---
 
+**Full documents:** [Report (PDF)](/files/dbs-report.pdf) · [Presentation (PDF)](/files/dbs-presentation.pdf)
+
 *This work was conducted at the Institute for Neuromodulation and -technology, University Hospital Tubingen.*
