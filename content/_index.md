@@ -54,6 +54,20 @@ publications:
   - citation: 'Baltabayev A, et al. including <span class="author-highlight">Klopfer F</span>. "Virtual reality for sensor data visualization and analysis." Electronic Imaging, 2018.'
   - citation: 'Layer N, et al. including <span class="author-highlight">Klopfer F</span>. "Axonopathy and altered synaptic development in a cortical organoid model of Dravet syndrome." bioRxiv, 2023.'
 
+certifications:
+  - name: "Qiskit Global Summer School 2025 — Quantum Excellence"
+    issuer: "IBM"
+    date: "2025"
+    url: "https://www.credly.com/users/fabian-klopfer"
+  - name: "IBM Machine Learning Specialist — Advanced"
+    issuer: "IBM"
+    date: "2025"
+    url: "https://www.credly.com/users/fabian-klopfer"
+  - name: "Enterprise Design Thinking Practitioner"
+    issuer: "IBM"
+    date: "2025"
+    url: "https://www.credly.com/users/fabian-klopfer"
+
 skills:
   - "C"
   - "Python"

@@ -210,6 +210,14 @@ img {
   color: #f0ebe4;
 }
 
+.cv-title a {
+  color: inherit;
+}
+
+.cv-title a:hover {
+  color: var(--accent);
+}
+
 .cv-date {
   color: var(--text-secondary);
   font-size: 0.8125rem;

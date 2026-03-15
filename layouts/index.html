@@ -84,6 +84,19 @@
     </div>
 
     <div class="cv-subsection">
+      <h3 class="cv-label">Certifications</h3>
+      {{ range .Params.certifications }}
+      <div class="cv-entry">
+        <div class="cv-row">
+          <span class="cv-title"><a href="{{ .url }}">{{ .name }}</a></span>
+          <span class="cv-date">{{ .date }}</span>
+        </div>
+        <p class="cv-detail">{{ .issuer }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="cv-subsection">
       <h3 class="cv-label">Skills</h3>
       <div class="skills-list">
         {{ range .Params.skills }}
