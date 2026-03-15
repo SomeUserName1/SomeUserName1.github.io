@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="container">
+  <section class="section">
+    <h1 class="section-title">{{ .Title }}</h1>
+    <ul class="post-list">
+      {{ range .Pages }}
+      <li class="post-item">
+        <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ with .Summary }}<p class="post-summary">{{ . }}</p>{{ end }}
+      </li>
+      {{ end }}
+      {{ if not .Pages }}
+      <li class="post-item">
+        <p class="prose">No posts yet. Check back soon.</p>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</div>
+{{ end }}
