@@ -130,7 +130,7 @@ img {
   font-size: 0.875rem;
 }
 
-/* === About & Work Experience === */
+/* === About === */
 .prose {
   color: #cccccc;
   font-size: 0.9375rem;
@@ -379,6 +379,86 @@ img {
 .post-content pre code {
   background: none;
   padding: 0;
+}
+
+.post-content h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #f0ebe4;
+  margin-top: 40px;
+  margin-bottom: 12px;
+}
+
+.post-content h3 {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: #f0ebe4;
+  margin-top: 32px;
+  margin-bottom: 8px;
+}
+
+.post-content h4 {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: #f0ebe4;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--accent);
+  padding-left: 16px;
+  margin: 16px 0;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.post-content blockquote p {
+  margin-bottom: 0;
+}
+
+.post-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 32px 0;
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+  font-size: 0.8125rem;
+}
+
+.post-content th {
+  text-align: left;
+  font-weight: 600;
+  color: #f0ebe4;
+  padding: 8px 12px;
+  border-bottom: 2px solid var(--border);
+}
+
+.post-content td {
+  padding: 6px 12px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+
+.post-content tr:last-child td {
+  border-bottom: none;
+}
+
+.post-content strong {
+  color: #f0ebe4;
+}
+
+.post-content em {
+  color: var(--text-secondary);
+}
+
+.post-content img {
+  border-radius: 6px;
+  margin: 16px 0;
 }
 
 .back-link {

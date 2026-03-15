@@ -22,7 +22,7 @@ projects:
     repo: "minimal_graph_db"
     lang: "C"
     desc: "Graph database backend with on-disk storage order optimization"
-    blog: "blog-building-a-graph-database-from-scratch-in-c"
+    blog: "building-a-graph-database-from-scratch-in-c"
   - name: "generic-blockchain-rs"
     repo: "generic-blockchain-rs"
     lang: "Rust"
