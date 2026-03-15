@@ -190,6 +190,19 @@ img {
   margin-top: 4px;
 }
 
+.project-group-title {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.project-group-title:first-of-type {
+  margin-top: 0;
+}
+
 /* === CV === */
 .cv-subsection {
   margin-bottom: 24px;
