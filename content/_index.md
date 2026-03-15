@@ -44,16 +44,39 @@ education:
 experience:
   - role: "Software Engineer"
     org: "IBM R&D"
-    detail: "Db2/BigSQL, open table format support"
+    detail: "Distributed datalake engine (Db2/BigSQL), open table format support"
     years: "2024–present"
   - role: "Research Assistant"
     org: "Max Planck Institute for Biological Cybernetics"
-    detail: "Dept. High Field MRI — Quantitative MRI algorithms"
+    detail: "Neural data analysis — quantitative MRI algorithms"
     years: "2024"
+  - role: "Research Assistant"
+    org: "University Hospital Tuebingen"
+    detail: "Deep brain stimulation — intraoperative electrophysiology & biomarker discovery"
+    years: "2023"
+  - role: "Research Assistant"
+    org: "Hertie Institute for Clinical Brain Research"
+    detail: "Neural data analysis — MEA electrophysiology for epilepsy research"
+    years: "2023"
+  - role: "Research Associate"
+    org: "University of Konstanz"
+    detail: "Graph database optimization — record layout & type inference"
+    years: "2019–2021"
   - role: "Intern"
     org: "Hanson Robotics / OpenCog Foundation"
-    detail: "Robot perception, AGI framework"
+    detail: "Robotics research — perception, AGI framework"
     years: "2018"
+
+opensource:
+  - "scikit-learn"
+  - "SHAP"
+  - "MONAI"
+  - "QubesOS"
+  - "gastown"
+  - "Fraunhofer AISEC"
+  - "avante.nvim"
+  - "Nextcloud"
+  - "OpenCog"
 
 publications:
   - citation: 'Baltabayev A, et al. including <span class="author-highlight">Klopfer F</span>. "Virtual reality for sensor data visualization and analysis." Electronic Imaging, 2018.'
@@ -81,9 +104,14 @@ skills:
   - "C++"
   - "SQL"
   - "PyTorch"
+  - "Keras"
+  - "TensorFlow"
+  - "ROS"
   - "Shell"
+  - "Linux"
+  - "CI/CD"
   - "MATLAB"
   - "LaTeX"
 ---
 
-Software engineer at IBM working on Db2/BigSQL. Dual background in computer science and neuroscience with two master's degrees. Experience spans graph database optimization, deep brain stimulation data pipelines, and robotics research in Hong Kong. Interested in building systems that process and make sense of complex data.
+Software engineer at IBM working on the Db2/BigSQL distributed datalake engine. Dual background in computer science and neuroscience with two master's degrees. Experience spans neural data analysis (electrophysiology and MRI), graph database optimization, deep brain stimulation, and robotics research in Hong Kong. Open source contributor to scikit-learn, SHAP, MONAI, QubesOS, and others. Interested in building systems that process and make sense of complex data.

@@ -90,6 +90,15 @@
     </div>
 
     <div class="cv-subsection">
+      <h3 class="cv-label">Open Source Contributions</h3>
+      <div class="skills-list">
+        {{ range .Params.opensource }}
+        <span class="skill-tag">{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="cv-subsection">
       <h3 class="cv-label">Skills</h3>
       <div class="skills-list">
         {{ range .Params.skills }}
