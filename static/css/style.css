@@ -70,6 +70,23 @@ img {
   margin-bottom: 16px;
 }
 
+/* === Site Header === */
+.site-header {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header-link {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.site-header-link:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
 /* === Hero === */
 .hero {
   padding: 64px 0 48px;

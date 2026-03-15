@@ -4,6 +4,13 @@
   {{ partial "head.html" . }}
 </head>
 <body>
+  {{ if not .IsHome }}
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ "/" | relURL }}" class="site-header-link">{{ .Site.Title }}</a>
+    </div>
+  </header>
+  {{ end }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
