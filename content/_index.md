@@ -97,11 +97,11 @@ certifications:
 
 skills:
   - group: "Languages"
-    items: ["C", "Python", "Rust", "Java", "C++", "SQL", "Shell", "MATLAB", "LaTeX"]
+    items: ["C", "Python", "Rust", "Java", "C++", "SQL", "Lua", "Scheme", "Cython", "Shell", "MATLAB", "LaTeX"]
   - group: "Frameworks"
-    items: ["PyTorch", "Keras", "TensorFlow", "ROS"]
+    items: ["PyTorch", "Keras", "TensorFlow", "scikit-learn", "MONAI", "MNE", "SciPy", "Qiskit", "ROS", "Dash"]
   - group: "Tools"
-    items: ["Linux", "CI/CD"]
+    items: ["Linux", "Git", "Neo4j", "CMake", "CI/CD"]
 ---
 
 Software engineer at IBM working on the Db2/BigSQL distributed datalake engine. Dual background in computer science and neuroscience with two master's degrees. Experience spans neural data analysis (electrophysiology and MRI), graph database optimization, deep brain stimulation, and robotics research in Hong Kong. Open source contributor to scikit-learn, SHAP, MONAI, QubesOS, and others. Interested in building systems that process and make sense of complex data.
