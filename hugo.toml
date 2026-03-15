@@ -1,0 +1,9 @@
+baseURL = "https://someusername1.github.io/"
+languageCode = "en-us"
+title = "Fabian H. Klopfer"
+
+[params]
+  description = "Software Engineer — Neuroscience & Database Systems"
+  github = "https://github.com/SomeUserName1"
+  linkedin = "https://www.linkedin.com/in/fabian-klopfer"
+  email = "fabian.klopfer@ieee.org"

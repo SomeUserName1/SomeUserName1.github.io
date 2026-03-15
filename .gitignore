@@ -1,0 +1,12 @@
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+Thumbs.db
+.superpowers/
+
+# Personal documents — do not publish
+additional.pdf
+klopfer-degree-certificates.pdf
+klopfer-transcripts.pdf
+website-implementation-plan.md
